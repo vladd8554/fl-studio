@@ -1,0 +1,3 @@
+{version:0.1}
+
+{hwid:3371015424|name:pro_vladik3}
